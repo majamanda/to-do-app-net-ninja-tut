@@ -1,0 +1,40 @@
+{
+  "name": "ninja-node-to-do-app",
+  "version": "1.0.0",
+  "description": "simple to do app fron net ninja YT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majamanda/to-do-app-net-ninja-tut.git"
+  },
+  "keywords": [
+    "to",
+    "do",
+    "todo",
+    "todo",
+    "app",
+    "to",
+    "do",
+    "app",
+    "node",
+    "app",
+    "net",
+    "ninja",
+    "to",
+    "do"
+  ],
+  "author": "asintha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/majamanda/to-do-app-net-ninja-tut/issues"
+  },
+  "homepage": "https://github.com/majamanda/to-do-app-net-ninja-tut#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
