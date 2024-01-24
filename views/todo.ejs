@@ -17,9 +17,10 @@
             <button type="submit">Add item</button>
         </form>
         <ul>
+            <% if(todos) { %>
             <% for(var i=0; i < todos.length; i++) { %>
                 <li><%= todos[i].item %></li>
-            <% } %>
+            <% }} %>
         </ul>
     </div>
 </body>
